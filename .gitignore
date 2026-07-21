@@ -10,3 +10,6 @@ wheels/
 .venv
 
 docs/
+
+data/
+reading/
